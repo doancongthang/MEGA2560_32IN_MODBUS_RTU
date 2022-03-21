@@ -1,0 +1,36 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\Arduino Project\\VSCode_Mega\\VS_Arduino_Mega_3SW"
+		},
+		{
+			"name": "ATMEGA2560 PLC RS485 ENTH",
+			"path": "..\\..\\ATMEGA2560 PLC RS485 ENTH"
+		},
+		{
+			"name": "FirmwareModbusRTU",
+			"path": "..\\..\\FirmwareReadIOModbusRTU\\FirmwareModbusRTU"
+		},
+		{
+			"name": "mega2560 modbus",
+			"path": ".."
+		},
+		{
+			"name": "Firmware_16In_16Out_ModbusRTU",
+			"path": "..\\..\\Firmware_16IN_16OUT_ModbusRTU\\Firmware_16In_16Out_ModbusRTU"
+		},
+		{
+			"name": "Cam bien bao khoi",
+			"path": "..\\..\\..\\13_Cam bien bao khoi\\Code arduino\\Cam bien bao khoi"
+		},
+		{
+			"name": "M334 Mega4 DwinB2",
+			"path": "..\\..\\..\\15_Orion\\M344 project\\M334 Mega4 DwinB2"
+		},
+		{
+			"name": "M334 Mega4 Dwin",
+			"path": "..\\..\\..\\15_Orion\\M344 project\\M334 Mega4 Dwin"
+		}
+	],
+	"settings": {}
+}
