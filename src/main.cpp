@@ -172,11 +172,10 @@ void loop()
 {
   while (mb.Hreg(0) == 1992)
   {
-    for (int i = 0; i <= 100; i++)
+    for (int i = 0; i < 32; i++)
     {
       mb.Ists(i, digitalRead(input[i]));
     }
-
     mb.task();
     yield();
   }
@@ -186,7 +185,7 @@ void loop()
 */
 
 /*----------------------------------------------------------------*/
-//// Firmware for board 16In/16Out
+// Firmware for board 32Input
 //*
 void loop()
 {
